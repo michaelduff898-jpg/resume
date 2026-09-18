@@ -30,4 +30,4 @@ Cineplex    2023 - Present
 
 # Projects
 
-![Book Cover Project](bookCover.png)
+![Book Cover Project](BookCover.png)
