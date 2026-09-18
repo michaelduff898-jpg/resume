@@ -28,6 +28,6 @@ Cineplex    2023 - Present
 
 # Projects
 
-
+![Tux, the Linux mascot](/assets/images/bookCover.png)
 
 
