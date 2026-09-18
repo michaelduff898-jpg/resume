@@ -1,7 +1,19 @@
-# Home Page
+# Resume
 
-This is my home page.
+**Aqeel Duff** 
+graphic Design Student at Humber
 
-# # About me
+# #About me
+
 
 my name is **Aqeel**. I am a student 
+
+
+# #SKILLS
+
+# #EDUCATION
+
+# #WORK EXPIERNCE
+
+# #Contact
+*** *** ***
