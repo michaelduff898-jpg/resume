@@ -1,9 +1,19 @@
-# resume
+# Resume
 
-Aqeel Duff
+**Aqeel Duff** 
+graphic Design Student at Humber
 
-A brief description of this project and instructions
+# #About me
 
-Another change
 
-# # This is an H2
+my name is **Aqeel**. I am a student 
+
+
+# #SKILLS
+
+# #EDUCATION
+
+# #WORK EXPIERNCE
+
+# #Contact
+*** *** ***
