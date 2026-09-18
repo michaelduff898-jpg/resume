@@ -6,7 +6,7 @@ graphic Design Student at Humber
 # #About me
 
 
-my name is **Aqeel**. I am a student 
+my name is **Aqeel**. I am a student at 
 
 
 # #SKILLS
@@ -17,8 +17,10 @@ my name is **Aqeel**. I am a student
 5. *Adobe Indesign        6.VS Code
 
 # #EDUCATION
+Humber College   2025 - Present
 
 # #WORK EXPIERNCE
+
 
 # #Contact
 *** *** ***
