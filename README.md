@@ -6,7 +6,8 @@ graphic Design Student at Humber
 # #About me
 
 
-my name is **Aqeel**. I am a student at 
+my name is **Aqeel**. I am a graphic design student at Humber College.
+
 
 
 # #SKILLS
@@ -20,7 +21,7 @@ my name is **Aqeel**. I am a student at
 Humber College   2025 - Present
 
 # #WORK EXPIERNCE
-
+Cineplex    2023 - Present
 
 # #Contact
 *** *** ***
