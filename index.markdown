@@ -7,7 +7,9 @@ graphic Design Student at Humber
 
 
 my name is **Aqeel**. I am a graphic design student at Humber College.
-
+lorem ipsum dolor sit amet consectetur adipiscing elit non omnis voluptas. 
+dolor officia cupiditate nisi vel est dolores in sint quod sint facere id adipiscing.
+sit sint ad officia dignissimos est possimus in nulla aliqua aliquip deleniti pariatur libero laborum cumque est incididunt non et deleniti culpa blanditiis animi molestias
 
 
 # #SKILLS
