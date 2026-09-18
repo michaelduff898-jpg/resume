@@ -25,3 +25,5 @@ Cineplex    2023 - Present
 
 # #Contact
 *** *** ***
+
+<a href="https://linkedin">Click Here</a>
