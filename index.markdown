@@ -29,3 +29,5 @@ Cineplex    2023 - Present
 <a href="https://www.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logon">LinkedIn</a>
 
 # Projects
+
+![Book Cover Project](/assets/downloads/bookCover.png)
