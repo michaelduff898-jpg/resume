@@ -15,9 +15,9 @@ sit sint ad officia dignissimos est possimus in nulla aliqua aliquip deleniti pa
 # #SKILLS
 *Adobe Creative cloud*
 
-1. *Adobe* Illustrator    4. *Adobe* After Effects
-3. *Adobe* Photoshop      5. Figma
-5. *Adobe* Indesign       6. VS Code
+1. *Adobe* Illustrator          4. *Adobe* After Effects
+3. *Adobe* Photoshop            5. Figma
+5. *Adobe* Indesign             6. VS Code
 
 # #EDUCATION
 Humber College   2025 - Present
@@ -28,4 +28,4 @@ Cineplex    2023 - Present
 # #Contact
 *** *** ***
 
-<a href="https://linkedin">Click Here</a>
+<a href="https://www.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logon">LinkedIn</a>
