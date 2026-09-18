@@ -1,4 +1,3 @@
-# Resume
 
 **Aqeel Duff** 
 graphic Design Student at Humber
@@ -27,5 +26,6 @@ Cineplex    2023 - Present
 
 # #Contact
 *** *** ***
-
 <a href="https://www.linkedin.com/?trk=guest_homepage-jobseeker_nav-header-logon">LinkedIn</a>
+
+# Projects
